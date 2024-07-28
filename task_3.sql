@@ -4,4 +4,5 @@
 -- WHERE table_schema = DATABASE();
 
 -- List all tables in the specified database
-SHOW TABLES;
+SHOW TABLES
+USE alx_book_store;
